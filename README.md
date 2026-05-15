@@ -1,46 +1,35 @@
-E-Commerce Sales Dashboard (Excel)
-Project Overview
+E-Commerce Sales Dashboard
+Overview
 
-This project is an interactive E-Commerce Sales Dashboard created using Microsoft Excel. The dashboard helps analyze sales performance, customer behavior, product trends, and revenue insights through charts, KPI cards, and slicers.
+Developed an interactive E-Commerce Sales Dashboard using Microsoft Excel to analyze sales performance and generate business insights. The dashboard helps track revenue, customer spending, order trends, product performance, and city-wise sales through interactive visualizations and KPI metrics.
 
-The main goal of this project is to transform raw sales data into meaningful business insights using Excel data analysis and visualization tools.
-
-Dashboard Features
-Total Orders Analysis
-Total Revenue Tracking
-Average Order Delivery Time
-Average Customer Spend
-Revenue by Occasion
-Revenue by Category
-Revenue by Hour
-Monthly Revenue Trends
-Top 5 Products by Revenue
-Top 10 Cities by Orders
-Interactive Slicers and Filters
-Tools & Skills Used
+Tools & Technologies
 Microsoft Excel
 Pivot Tables
 Pivot Charts
 Slicers
-Data Cleaning
-KPI Cards
-Formulas and Functions
-Dashboard Design
+Excel Formulas & Functions
 Data Visualization
-Project Insights
-Identified top-performing occasions and categories
-Analyzed customer spending behavior
-Tracked monthly revenue trends
-Compared city-wise order performance
-Visualized hourly order patterns
-Learning Outcome
+Dashboard Features
+Interactive KPI Cards
+Revenue and Orders Analysis
+Average Customer Spend Tracking
+Delivery Time Analysis
+Product Category Comparison
+Monthly Revenue Filtering
+Top Products Performance
+City-wise Orders Analysis
+Dynamic Charts and Slicers
+Key Insights
+Analyzed overall revenue and order performance
+Compared sales across product categories
+Identified monthly sales trends using visual analytics
+Tracked customer spending behavior
+Improved reporting through interactive dashboards
+Project Files
+Excel Dashboard File (.xlsx)
+Dashboard Screenshot (.png)
+Dataset File
+Conclusion
 
-Through this project, I learned:
-
-How to build interactive Excel dashboards
-How to use Pivot Tables and slicers effectively
-Data visualization techniques for business reporting
-KPI tracking and sales analysis
-Dashboard formatting and layout design
-
-I also understood the importance of creating dynamic KPI cards connected with Pivot Tables instead of manually entered values.
+This project demonstrates data cleaning, data visualization, and dashboard development skills using Microsoft Excel, Pivot Tables, and slicers for business analysis and reporting.
